@@ -1,0 +1,22 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: Impact;
+    color: #ffffff;
+    background-color: #000000;
+    text-shadow:
+        0 0 5px #8a7c7c,
+        0 0 10px #4b4b4b,
+        0 0 20px #000000;
+
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+        url("https://raw.githubusercontent.com/PiercedHeart-jpg/Website/refs/heads/main/flowers.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
